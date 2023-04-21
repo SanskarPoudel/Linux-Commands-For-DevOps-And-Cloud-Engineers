@@ -57,7 +57,23 @@ cp <file name> <destination>
 #Move the file
 mv <file name> <destination>
 
-#
+#move and rename the file
+mv <file name> <new file name>
+
+
+#######################################################################################
+
+
+#Installing the package // super user do - sudo
+sudo apt install <package name>
+
+#Updating and upgrading the package
+sudo apt update && sudo apt upgrade
+
+
+
+
+
 
 
 
