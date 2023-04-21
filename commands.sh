@@ -70,6 +70,12 @@ sudo apt install <package name>
 #Updating and upgrading the package
 sudo apt update && sudo apt upgrade
 
+#Deleting the package
+sudo apt purge <package name>
+
+
+
+
 
 
 
