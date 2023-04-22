@@ -114,7 +114,19 @@ vi file.txt
 
 
 #######################################################################################
+#Network commands
 
+#Pinging 
+ping <host ip address or domain name>
+
+#Details about some domain
+nslookup <ip addr or domain name>
+
+#Get contents/html of Url
+curl <ip addr or URL>
+
+#Downloading 
+wget <Downloading link>
 
 
 
