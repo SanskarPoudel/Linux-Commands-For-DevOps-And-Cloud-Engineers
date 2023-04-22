@@ -79,6 +79,45 @@ sudo apt purge <package name>
 #SSH / Remote Login //connecting to protected - to connecting to instances which are not protected, you dont need key file
 ssh -i <Key file path> username@host 
 
+########################################################################################
+
+#Get history of all commands entered
+history
+
+########################################################################################
+
+#Present working directory // Gives whole path
+pwd
+
+#current user
+whoami
+
+#Change user to the root user
+sudo su
+
+#Check if some packages are installed or not
+<package name>
+<package name> --version
+
+#Check the place where package is installed
+which <package name>
+
+#current date
+date
+
+#Vim text editor //creating and editing (you should first enter i in order to start typing)
+vi file.txt
+
+#vim editor  exiting (first press escape key)
+:wq #saving and exiting
+:qa! #exiting without saving
+
+
+#######################################################################################
+
+
+
+
 
 
 
