@@ -74,6 +74,16 @@ sudo apt update && sudo apt upgrade
 sudo apt purge <package name>
 
 
+########################################################################################
+
+#SSH / Remote Login //connecting to protected - to connecting to instances which are not protected, you dont need key file
+ssh -i <Key file path> username@host 
+
+
+
+
+
+
 
 
 
